@@ -1,4 +1,4 @@
-![Banner](https://img.shields.io/badge/Welcome%20to%20My%20Profile-007ACC?style=for-the-badge&logo=github&logoColor=white)
+![Banner](https://github.com/ruchitiwari03/ruchitiwari03/blob/e1fe640b5ad280d579e52a3935f14bfe5fc999da/Banner.png)
 
 # I'm Ruchi Tiwari 👋
 
